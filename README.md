@@ -1,7 +1,7 @@
 hi
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=kingjinyong's%20Github&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=kingjinyong's%10Github&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=22&desc=%10&descAlignY=31&descAlign=31)
 
  <br/>
  <br/>
