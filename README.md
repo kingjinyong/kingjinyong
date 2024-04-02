@@ -5,13 +5,6 @@ hi
 
  <br/>
  <br/>
-  
-####  :clipboard: Once I've Used 
-  
- <br/>
-
-   <br/>
-   <br/>
  
 #### :pencil2: Study log
  
