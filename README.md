@@ -1,11 +1,4 @@
-hi
-<div align="center"> 
-
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=80&section=header&text=kingjinyong's%20Github&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-
- <br/>
- <br/>
- 
+hi 
 #### :pencil2: Study log
  
   <br/>
