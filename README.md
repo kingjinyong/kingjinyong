@@ -1,5 +1,4 @@
 hi 
-https://github.com/jinyongkim123   🥺
 #### :pencil2: Study log
  
   <br/>
